@@ -1,0 +1,43 @@
+meta.tag          en_US
+meta.name         English
+meta.region.short US
+meta.region.long  United States
+
+# COMMANDS
+command.error.unknown That command may be unknown, or its module may be disabled.
+command.error.denied  You don't have permission to do that.
+
+command.stack.title   Task Execution Error
+command.stack.desc    An error has occurred during task execution. Please submit an issue.
+command.stack.type    Type
+command.stack.message Message
+command.stack.source  Source
+command.stack.trace   Stack Trace
+command.stack.issue   Issue Tracker
+
+# DASHBOARD
+dash.sidebar.title Vevox Bots
+
+dash.sidebar.sigma        sigma
+dash.sidebar.sigma.admin  Management
+dash.sidebar.sigma.stats  Analytics
+dash.sidebar.sigma.mod    Moderation
+dash.sidebar.sigma.about  Info
+
+dash.sidebar.iota         iota
+dash.sidebar.iota.music   Music
+dash.sidebar.iota.games   Minigames
+dash.sidebar.iota.greet   Greetings
+dash.sidebar.iota.about   Info
+
+dash.sidebar.misc         misc
+dash.sidebar.misc.more    Explore More
+dash.sidebar.misc.social  Social
+dash.sidebar.misc.contrib Contribute
+dash.sidebar.misc.support Support Us
+dash.sidebar.misc.about   About
+
+dash.topbar.server.select No Server Selected
+dash.topbar.server.none   No servers available
+dash.topbar.server.help1  Not seeing your server?
+dash.topbar.server.help2  Only servers with at least one of our bots will appear here.
