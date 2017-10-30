@@ -41,3 +41,27 @@ dash.topbar.server.select No Server Selected
 dash.topbar.server.none   No servers available
 dash.topbar.server.help1  Not seeing your server?
 dash.topbar.server.help2  Only servers with at least one of our bots will appear here.
+
+# HTTP Errors
+httperr.help    If you believe this is an error on our part, you can report it on our issue tracker by clicking "Contribute" on the left.
+httperr.extra   Extra information is as follows:
+
+httperr.e400.title   Bad Request
+httperr.e400.title2  Malformed or invalid request.
+httperr.e400.desc    There was an unknown issue with the format of your request and it could not be processed.
+
+httperr.e401.title   Unauthorized
+httperr.e401.title2  Authorization has expired or is invalid.
+httperr.e401.desc    Something happened to your session and we lost your authorization. You may need to log in again.
+
+httperr.e404.title   Not Found
+httperr.e404.title2  Page at requested URL could not be found.
+httperr.e404.desc    You may have mistyped the page URL or we may have missed something. Either way, double-check and try again.
+
+httperr.e418.title   I'm a Teapot
+httperr.e418.title2  Could not GET brew.
+httperr.e418.desc    This server is configured as a teapot and cannot brew you coffee.
+
+httperr.e500.title   Internal Error
+httperr.e500.title2  An internal error was encountered.
+httperr.e500.desc    There was an error on our end and your request was not fully processed. Please report this error to us.
