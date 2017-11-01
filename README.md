@@ -23,6 +23,10 @@ If you have a suggestion or found a bug, please [open an issue](/issues). You ca
 
 You can read a full legal disclosure, including terminology references, [here](http://discord.vevox.io/misc/about).
 
+---
+
+Designed, maintained, and developed by @CynicalBusiness (`CynicalBusiness#2916`).
+
 **To My Warrior, Half the World Away**
 
 *Myra ta Hayzel; Pal Kifitae te Entra en na Loka*
