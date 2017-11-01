@@ -13,7 +13,7 @@
 
 You can invite one or more of these bots as well as configure their settings through the [vxBots Dashboard](http://discord.vevox.io).
 
-## Contributions
+### Contributions
 We could always use your help localizing or documenting features of both the Dashboard and the bots themselves. Get a feel for the style by reading through the existing files then feel free to [submit a pull request](/pulls) and add to the lot.
 
 If you have a suggestion or found a bug, please [open an issue](/issues). You can track our progress with features or bugs both through the issues page itself, [milestones](/milestones), and/or on our [project page](/projects).
@@ -24,4 +24,5 @@ If you have a suggestion or found a bug, please [open an issue](/issues). You ca
 You can read a full legal disclosure, including terminology references, [here](http://discord.vevox.io/misc/about).
 
 **To My Warrior, Half the World Away**
+
 *Myra ta Hayzel; Pal Kifitae te Entra en na Loka*
