@@ -4,8 +4,23 @@ meta.region.short US
 meta.region.long  United States
 
 # COMMANDS
-command.error.unknown That command may be unknown, or its module may be disabled.
-command.error.denied  You don't have permission to do that.
+command.sigma.unknown That command may be unknown, or its module may be disabled.
+command.sigma.denied  You do not have permission to do that.
+command.sigma.ack1    Understood.
+command.sigma.ack2    Confirmed.
+command.sigma.ack3    Acknowledged.
+
+command.iota.unknown  That's either not a command, or you have the module turned off.
+command.iota.denied   Doesn't look like you can do that.
+command.iota.ack1     Got it.
+command.iota.ack2     On it.
+command.iota.ack3     Gotcha.
+
+command.theta.unknown It appears that is not a command, or you have the module in question disabled.
+command.theta.denied  Your permissions forbade that.
+command.theta.ack1    Aye.
+command.theta.ack2    As you command.
+command.theta.ack3    Understood.
 
 command.stack.title   Task Execution Error
 command.stack.desc    An error has occurred during task execution. Please submit an issue.
