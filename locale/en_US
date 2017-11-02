@@ -52,10 +52,11 @@ dash.sidebar.misc.contrib Contribute
 dash.sidebar.misc.support Support Us
 dash.sidebar.misc.about   About
 
-dash.topbar.server.select No Server Selected
-dash.topbar.server.none   No servers available
-dash.topbar.server.help1  Not seeing your server?
-dash.topbar.server.help2  Only servers with at least one of our bots will appear here.
+dash.topbar.servers.select  No Server Selected
+dash.topbar.servers.none    No Servers!?
+dash.topbar.servers.error   Failed Fetching Servers!
+dash.topbar.servers.help1   What's the blue icon?
+dash.topbar.servers.help2   The blue icon indicates one of our bots is active in your server. Awesome!
 
 # HTTP Errors
 httperr.help    If you believe this is an error on our part, you can report it on our issue tracker by clicking "Contribute" on the left.
