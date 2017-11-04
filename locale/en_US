@@ -58,6 +58,12 @@ dash.topbar.servers.error   Failed Fetching Servers!
 dash.topbar.servers.help1   What's the blue icon?
 dash.topbar.servers.help2   The blue icon indicates one of our bots is active in your server. Awesome!
 
+dash.page.noserver1 So, which server will this be for?
+dash.page.noserver2 For this, you will need to pick a server. You can select one through the drop-down in the upper right.
+dash.page.nobot1    It's just not there!
+dash.page.nobot2l   This server needs
+dash.page.nobot2r   to work. If you really want this feature, maybe consider inviting it?
+
 # HTTP Errors
 httperr.help    If you believe this is an error on our part, you can report it on our issue tracker by clicking "Contribute" on the left.
 httperr.extra   Extra information is as follows:
