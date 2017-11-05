@@ -25,8 +25,8 @@ You can read a full legal disclosure, including terminology references, [here](h
 
 ---
 
-Designed, maintained, and developed by @CynicalBusiness (`CynicalBusiness#2916`).
+Designed, maintained, and developed by [@CynicalBusiness](https://github.com/CynicalBusiness) (`CynicalBusiness#2916`).  
+[Join us on Discord](http://discord.vevox.io/social)!
 
-**To My Warrior, Half the World Away**
-
+**To My Warrior, Half the World Away**  
 *Myra ta Hayzel; Pal Kifitae te Entra en na Loka*
