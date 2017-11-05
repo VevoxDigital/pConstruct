@@ -63,6 +63,8 @@ dash.page.noserver2 For this, you will need to pick a server. You can select one
 dash.page.nobot1    It's just not there!
 dash.page.nobot2l   This server needs
 dash.page.nobot2r   to work. If you really want this feature, maybe consider inviting it?
+dash.page.noadmin1  Can't show this widget.
+dash.page.noadmin2  You need to be an admin on this server to see and interact with this widget
 
 # HTTP Errors
 httperr.help    If you believe this is an error on our part, you can report it on our issue tracker by clicking "Contribute" on the left.
