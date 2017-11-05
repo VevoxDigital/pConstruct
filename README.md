@@ -1,4 +1,4 @@
-[![pConstruct](res/branding3_banner.png)](http://discord.vevox.io)
+[![pConstruct](res/branding3_banner.png)](http://discord.vevox.io)  
 **Free-to-use multipurpose bots for Discord**
 
 ---
