@@ -68,6 +68,16 @@ dash.page.noadmin2  You need to be an admin on this server to see and interact w
 dash.page.notowner1 Can't show this widget.
 dash.page.notowner2 You need to be be the server owner to see and interact with this widget.
 
+# POPUPS
+popup.error.title Something went wrong!
+popup.error.body  An error occurred on our end, and your request could not be performed. Please check your console for more info and report this to us!
+
+popup.boterror.title  That won't work!
+popup.boterror.body   One of your configuration settings for pConstruct is not acceptable for your server. More information is available in #{channel}.
+
+popup.nobot.title Bot Not Running
+popup.nobot.body  The bot commanding the widget or module in question is not currently responding. If you believe this is an error, please let us know!
+
 # Sigma Command modules
 sigma.admins.title  Server Admins
 sigma.admins.desc   These users/roles can make changes to the server from this Dashboard
