@@ -78,6 +78,12 @@ popup.boterror.body   One of your configuration settings for pConstruct is not a
 popup.nobot.title Bot Not Running
 popup.nobot.body  The bot commanding the widget or module in question is not currently responding. If you believe this is an error, please let us know!
 
+popup.connlost.title  Connection Lost
+popup.connlost.body   Connect to the host server was lost, and your changes may not save. Check your connection and let us know if the issue persists.
+
+popup.conngain.title  Connection Restored
+popup.conngain.body   Connection to the host server was restored, and changes have been updated accordingly. (Took {tries} tries)
+
 # Sigma Command modules
 sigma.admins.title  Server Admins
 sigma.admins.desc   These users/roles can make changes to the server from this Dashboard
