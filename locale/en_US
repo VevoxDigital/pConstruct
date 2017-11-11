@@ -84,17 +84,25 @@ popup.connlost.body   Connect to the host server was lost, and your changes may 
 popup.conngain.title  Connection Restored
 popup.conngain.body   Connection to the host server was restored, and changes have been updated accordingly. (Took {tries} tries)
 
+popup.soon.title  Coming Soon
+popup.soon.body   This feature is actively in the works and will be available soon!
+
 # Sigma Command modules
 sigma.admins.title  Server Admins
 sigma.admins.desc   These users/roles can make changes to the server from this Dashboard
 
-sigma.info.title      Server Information
-sigma.info.desc       Manage and modify your server information channel.
-sigma.info.enable     Enable Information Channel
-sigma.info.enableNote This will use the first channel on your server's list.
-sigma.info.notEmpty1  Hey there! This won't work!
-sigma.info.notEmpty2  The information channel configuration was enabled, but your default channel is not empty.
-sigma.info.notEmpty3  Consider either emptying this channel or making a new one and moving it to the top.
+sigma.info.title        Server Information
+sigma.info.desc         Manage and modify your server information channel.
+sigma.info.enableNote   This will use the first channel on your server's list.
+sigma.info.notEmpty1    Hey there! This won't work!
+sigma.info.notEmpty2    The information channel configuration was enabled, but your default channel is not empty.
+sigma.info.notEmpty3    Consider either emptying this channel or making a new one and moving it to the top.
+sigma.info.add          Add a new info entry
+sigma.info.noEntries    Doesn't look you have anything added yet.
+sigma.info.entryText1   Add Text Entry
+sigma.info.entryText2   2000 character limit, extended Discord-flavored Markdown supported.
+sigma.info.entryImage1  Add Image Entry
+sigma.info.entryImage2  Can be any image format Discord supports (PNG, JPG, GIF, or WEBP). Larger images may be scaled down.
 
 # HTTP Errors
 httperr.help    If you believe this is an error on our part, you can report it on our issue tracker by clicking "Contribute" on the left.
@@ -119,3 +127,6 @@ httperr.e418.desc    This server is configured as a teapot and cannot brew you c
 httperr.e500.title   Internal Error
 httperr.e500.title2  An internal error was encountered.
 httperr.e500.desc    There was an error on our end and your request was not fully processed. Please report this error to us.
+
+# MISC
+misc.comingSoon Feature coming soon!
