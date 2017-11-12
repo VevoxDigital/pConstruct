@@ -87,6 +87,12 @@ popup.conngain.body   Connection to the host server was restored, and changes ha
 popup.soon.title  Coming Soon
 popup.soon.body   This feature is actively in the works and will be available soon!
 
+popup.infoMaxEntries.title  Too Many Entries
+popup.infoMaxEntries.body   You cannot have any more information entries than than, for everyone's sanity.
+
+popup.infoBadType.title Bad Type
+popup.infoBadType.body  An information entry was sent, but the type was rejected by the server. This is likely an error on our end.
+
 # Sigma Command modules
 sigma.admins.title  Server Admins
 sigma.admins.desc   These users/roles can make changes to the server from this Dashboard
