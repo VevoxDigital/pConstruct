@@ -97,18 +97,19 @@ popup.infoBadType.body  An information entry was sent, but the type was rejected
 sigma.admins.title  Server Admins
 sigma.admins.desc   These users/roles can make changes to the server from this Dashboard
 
-sigma.info.title        Server Information
-sigma.info.desc         Manage and modify your server information channel.
-sigma.info.enableNote   This will use the first channel on your server's list.
-sigma.info.notEmpty1    Hey there! This won't work!
-sigma.info.notEmpty2    The information channel configuration was enabled, but your default channel is not empty.
-sigma.info.notEmpty3    Consider either emptying this channel or making a new one and moving it to the top.
-sigma.info.add          Add a new info entry
-sigma.info.noEntries    Doesn't look you have anything added yet.
-sigma.info.entryText1   Add Text Entry
-sigma.info.entryText2   2000 character limit, extended Discord-flavored Markdown supported.
-sigma.info.entryImage1  Add Image Entry
-sigma.info.entryImage2  Can be any image format Discord supports (PNG, JPG, GIF, or WEBP). Larger images may be scaled down.
+sigma.info.title            Server Information
+sigma.info.desc             Manage and modify your server information channel.
+sigma.info.enableNote       This will use the first channel on your server's list.
+sigma.info.notEmpty1        Hey there! This won't work!
+sigma.info.notEmpty2        The information channel configuration was enabled, but your default channel is not empty.
+sigma.info.notEmpty3        Consider either emptying this channel or making a new one and moving it to the top.
+sigma.info.add              Add a new info entry
+sigma.info.noEntries        Doesn't look you have anything added yet.
+sigma.info.entryType.text   Text Block
+sigma.info.entryType.image  Image URL
+sigma.info.reorder          Reorder
+sigma.info.reorderConfirm   Confirm Reorder
+sigma.info.update           Update
 
 # HTTP Errors
 httperr.help    If you believe this is an error on our part, you can report it on our issue tracker by clicking "Contribute" on the left.
