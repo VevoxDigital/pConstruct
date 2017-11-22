@@ -94,8 +94,12 @@ popup.infoBadType.title Bad Type
 popup.infoBadType.body  An information entry was sent, but the type was rejected by the server. This is likely an error on our end.
 
 # Sigma Command modules
-sigma.admins.title  Server Admins
-sigma.admins.desc   These users/roles can make changes to the server from this Dashboard
+sigma.admins.title      Server Admins
+sigma.admins.desc       These users/roles can make changes to the server from this Dashboard
+sigma.admins.addOpt     Add
+sigma.admins.types.user User
+sigma.admins.types.role Role
+sigma.admins.tip        You can get a user or role ID by placing a backslash (\) before a mention. 
 
 sigma.info.title            Server Information
 sigma.info.desc             Manage and modify your server information channel.
