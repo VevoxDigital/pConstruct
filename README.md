@@ -11,7 +11,7 @@
 |:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 | Server management, administration, moderation, stat tracking, and others intended to help you better run your server. | Looking for something a bit more fun? Mini-games, music, matchmaking, greetings, and more! |
 
-You can invite one or more of these bots as well as configure their settings through the [vxBots Dashboard](http://discord.vevox.io).
+You can invite one or more of these bots as well as configure their settings through the [pConstruct Dashboard](http://discord.vevox.io).
 
 ### Contributions
 We could always use your help localizing or documenting features of both the Dashboard and the bots themselves. Get a feel for the style by reading through the existing files then feel free to [submit a pull request](/pulls) and add to the lot.
