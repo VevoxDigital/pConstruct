@@ -52,11 +52,11 @@ dash.sidebar.misc.contrib Contribute
 dash.sidebar.misc.support Support Us
 dash.sidebar.misc.about   About
 
-dash.topbar.servers.select  No Server Selected
-dash.topbar.servers.none    No Servers!?
-dash.topbar.servers.error   Failed Fetching Servers!
-dash.topbar.servers.help1   What's the blue icon?
-dash.topbar.servers.help2   The blue icon indicates one of our bots is active in your server. Awesome!
+dash.topbar.servers.select    No Server Selected
+dash.topbar.servers.none      No Servers!? :c
+dash.topbar.servers.error     Failed Fetching Servers!
+dash.topbar.servers.fetching  Fetching servers...
+dash.topbar.servers.help2     The blue icon indicates one of our bots is active in your server. Awesome!
 
 dash.page.noserver1 So, which server will this be for?
 dash.page.noserver2 For this, you will need to pick a server. You can select one through the drop-down in the upper right.
