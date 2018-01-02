@@ -4,31 +4,36 @@ meta.region.short US
 meta.region.long  United States
 
 # COMMANDS
-command.sigma.unknown That command may be unknown, or its module may be disabled.
-command.sigma.denied  You do not have permission to do that.
+command.sigma.unknown No action by that name exists. It is possible the module is disabled, or the message was mistyped.
+command.sigma.denied  You have not been granted access to that action.
 command.sigma.ack1    Understood.
 command.sigma.ack2    Confirmed.
 command.sigma.ack3    Acknowledged.
 
-command.iota.unknown  That's either not a command, or you have the module turned off.
+command.iota.unknown  Couldn't find an action for that. It's either spelled wrong, or you have the module turned off.
 command.iota.denied   Doesn't look like you can do that.
 command.iota.ack1     Got it.
 command.iota.ack2     On it.
 command.iota.ack3     Gotcha.
 
-command.theta.unknown It appears that is not a command, or you have the module in question disabled.
+command.theta.unknown It appears your request does not match an action. There is an entry error, or you have the module in question disabled.
 command.theta.denied  Your permissions forbade that.
 command.theta.ack1    Aye.
 command.theta.ack2    As you command.
 command.theta.ack3    Understood.
 
-command.stack.title   Task Execution Error
-command.stack.desc    An error has occurred during task execution. Please submit an issue.
+command.stack.title   Action Execution Failure
+command.stack.desc    The requested action failed to execute due to an internal error. Please submit an issue if possible.
 command.stack.type    Type
 command.stack.message Message
 command.stack.source  Source
 command.stack.trace   Stack Trace
 command.stack.issue   Issue Tracker
+
+# WEB PANEL
+web.nav_top.contrib   Contribute
+web.nav_top.issues    Issues
+web.nav_top.support   Support Us
 
 # DASHBOARD
 dash.sidebar.title Vevox Bots
