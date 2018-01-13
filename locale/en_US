@@ -34,6 +34,20 @@ command.stack.issue   Issue Tracker
 web.nav_top.contrib   Contribute
 web.nav_top.issues    Issues
 web.nav_top.support   Support Us
+web.nav_top.login     Sign In
+
+web.nav_side.misc_social   Discord & Social
+web.nav_side.misc_explore  Explore More
+web.nav_side.misc_about    Settings & Info
+web.nav_side.sigma_header  sigma
+web.nav_side.sigma_admin   Management
+web.nav_side.sigma_stats   Analytics
+web.nav_side.sigma_about   Server Info
+web.nav_side.iota_header   iota
+web.nav_side.iota_music    Music
+web.nav_side.iota_games    Minigames
+web.nav_side.iota_msgs     Messages
+web.nav_side.iota_about    User Info
 
 # DASHBOARD
 dash.sidebar.title Vevox Bots
