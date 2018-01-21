@@ -6,18 +6,24 @@ meta.region.long  United States
 # COMMANDS
 command.sigma.unknown No action by that name exists. It is possible the module is disabled, or the message was mistyped.
 command.sigma.denied  You have not been granted access to that action.
+command.sigma.waiting Just a moment...
+command.sigma.failed  The action was not fully executed. More information should be available above this message.
 command.sigma.ack1    Understood.
 command.sigma.ack2    Confirmed.
 command.sigma.ack3    Acknowledged.
 
 command.iota.unknown  Couldn't find an action for that. It's either spelled wrong, or you have the module turned off.
 command.iota.denied   Doesn't look like you can do that.
+command.iota.waiting  Hang on...
+command.iota.failed   That action didn't finished. There should be something above to describe what happened.
 command.iota.ack1     Got it.
 command.iota.ack2     On it.
 command.iota.ack3     Gotcha.
 
 command.theta.unknown It appears your request does not match an action. There is an entry error, or you have the module in question disabled.
 command.theta.denied  Your permissions forbade that.
+command.theta.waiting Enacting...
+command.theta.failed  Complete action enactment failed. Additional information should be present above.
 command.theta.ack1    Aye.
 command.theta.ack2    As you command.
 command.theta.ack3    Understood.
@@ -29,6 +35,8 @@ command.stack.message Message
 command.stack.source  Source
 command.stack.trace   Stack Trace
 command.stack.issue   Issue Tracker
+
+command.locale        Current locale is set to ${name} (${tag})
 
 # WEB PANEL
 web.nav_top.contrib   Contribute
@@ -48,6 +56,10 @@ web.nav_side.iota_music    Music
 web.nav_side.iota_games    Minigames
 web.nav_side.iota_msgs     Messages
 web.nav_side.iota_about    User Info
+
+web.selector.guild.no_selection Select a Server
+web.selector.guild.no_match     No servers match your search.
+web.selector.guild.no_items     No servers? Why not join ours?
 
 # DASHBOARD
 dash.sidebar.title Vevox Bots
