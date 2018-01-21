@@ -15,7 +15,7 @@ command.sigma.ack3    Acknowledged.
 command.iota.unknown  Couldn't find an action for that. It's either spelled wrong, or you have the module turned off.
 command.iota.denied   Doesn't look like you can do that.
 command.iota.waiting  Hang on...
-command.iota.failed   That action didn't finished. There should be something above to describe what happened.
+command.iota.failed   That action didn't finish. There should be something above to describe what happened.
 command.iota.ack1     Got it.
 command.iota.ack2     On it.
 command.iota.ack3     Gotcha.
