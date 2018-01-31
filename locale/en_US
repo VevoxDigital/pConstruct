@@ -3,7 +3,7 @@ meta.name         English
 meta.region.short US
 meta.region.long  United States
 
-# COMMANDS
+# SIGMA
 command.sigma.unknown No action by that name exists. It is possible the module is disabled, or the message was mistyped.
 command.sigma.denied  You have not been granted access to that action.
 command.sigma.waiting Just a moment...
@@ -12,6 +12,14 @@ command.sigma.ack1    Understood.
 command.sigma.ack2    Confirmed.
 command.sigma.ack3    Acknowledged.
 
+command.sigma.status.uptime    Active for ${uptime} (since ${startTime})
+command.sigma.status.ping      API is responding ${timing} with an average ping of ${ping}
+command.sigma.status.ping_fast on time
+command.sigma.status.ping_slow slowly
+command.sigma.status.guilds    Servicing ${count} guild(s)
+command.sigma.status.finished  All systems are accounted for.
+
+# IOTA
 command.iota.unknown  Couldn't find an action for that. It's either spelled wrong, or you have the module turned off.
 command.iota.denied   Doesn't look like you can do that.
 command.iota.waiting  Hang on...
@@ -20,6 +28,7 @@ command.iota.ack1     Got it.
 command.iota.ack2     On it.
 command.iota.ack3     Gotcha.
 
+# THETA
 command.theta.unknown It appears your request does not match an action. There is an entry error, or you have the module in question disabled.
 command.theta.denied  Your permissions forbade that.
 command.theta.waiting Enacting...
@@ -28,6 +37,7 @@ command.theta.ack1    Aye.
 command.theta.ack2    As you command.
 command.theta.ack3    Understood.
 
+# MISC BOT
 command.stack.title   Action Execution Failure
 command.stack.desc    The requested action failed to execute due to an internal error. Please submit an issue if possible.
 command.stack.type    Type
@@ -44,22 +54,37 @@ web.nav_top.issues    Issues
 web.nav_top.support   Support Us
 web.nav_top.login     Sign In
 
-web.nav_side.misc_social   Discord & Social
-web.nav_side.misc_explore  Explore More
-web.nav_side.misc_about    Settings & Info
+web.nav_side.dash_info     Dashboard
+web.nav_side.dash_settings Server Settings
+web.nav_side.dash_perms    Permissions
 web.nav_side.sigma_header  sigma
 web.nav_side.sigma_admin   Management
 web.nav_side.sigma_stats   Analytics
-web.nav_side.sigma_about   Server Info
 web.nav_side.iota_header   iota
 web.nav_side.iota_music    Music
 web.nav_side.iota_games    Minigames
 web.nav_side.iota_msgs     Messages
-web.nav_side.iota_about    User Info
+web.nav_side.misc_header   misc
+web.nav_side.misc_social   Social Media
+web.nav_side.misc_explore  Explore More
+web.nav_side.misc_about    About the Project
+
+web.selector.error    Fetch error. See console for more info.
+web.selector.fetching Fetching, please wait...
 
 web.selector.guild.no_selection Select a Server
 web.selector.guild.no_match     No servers match your search.
 web.selector.guild.no_items     No servers? Why not join ours?
+web.selector.guild.svr_shown    Only servers with our bots are shown
+web.selector.guild.svr_hidden   None of your servers have our bots!
+
+web.selector.channel.no_selection Select a Channel
+web.selector.channel.no_match     No channels match your search.
+web.selector.channel.no_items     No valid channels are visible.
+web.selector.channel.tip          Channels must be visible to a bot.
+
+web.header_1.dash_settings  Server Settings
+web.header_2.dash_settings  Manage global settings with your server across all our bots.
 
 # DASHBOARD
 dash.sidebar.title Vevox Bots
